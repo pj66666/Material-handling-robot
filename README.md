@@ -1,5 +1,5 @@
-
-
+For complete implementation, please refer to the project video
+Our team built this logistics robot from scratch, including mechanical structure, electronic control, visual recognition, etc.
 
 ![IMG_20210908_144053](https://github.com/pj66666/Material-handling-robot/assets/68932539/51faf0ea-df02-4d4e-82e0-564c15643afc)
 
